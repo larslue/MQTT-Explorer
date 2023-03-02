@@ -24,7 +24,6 @@ export const style = (theme: Theme) => {
     },
     codeWrapper: {
       display: 'flex',
-      maxHeight: '15em',
       overflow: 'auto',
       backgroundColor: `${codeBlockColors.background}`,
     },
